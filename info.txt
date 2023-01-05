@@ -1,0 +1,10 @@
+101 150 The Witcher edition 1
+102 200 Point of Retreat
+103 250 Harry Potter
+104 300 Lord of the Rings
+105 150 Diary of a Wimpy Kid
+106 120 Skippy Dies
+107 130 The God of Small Things
+108 110 HomeSick for Another World
+109 250 Green Migraine
+110 200 Diving into the Wreck
